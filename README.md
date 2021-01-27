@@ -6,14 +6,12 @@
 - Enjoys pulling concrete answers out of numbers and data
 - High Proficiency in Microsoft Office and Google Suite
 - Adept in Python, SQL and Javascript/HTML
-
 <br />
 <br />
 
 ## LinkedIn:
 
 www.linkedin.com/in/artem-bordetskiy
-    
 <br />
 <br />
 
